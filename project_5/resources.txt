@@ -1,0 +1,12 @@
+Task 1
+
+Consider this https://null-byte.wonderhowto.com/how-to/hack-like-pro-conduct-simple-man-middle-attack-0147291/
+
+Task 2
+
+Use this https://securitytrails.com/blog/top-15-nmap-commands-to-scan-remote-hosts
+
+
+Task 3
+
+https://null-byte.wonderhowto.com/how-to/hack-android-using-kali-remotely-0160161/

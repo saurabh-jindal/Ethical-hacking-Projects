@@ -1,0 +1,12 @@
+Task 1
+
+Perform Man in the Middle Attack on your other system. 
+
+
+Task 2
+
+Using NMAP and attacks find to try out the everything about an IP
+
+Task 3
+
+Hacking Android Phone probably your own.

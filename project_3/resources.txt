@@ -1,0 +1,21 @@
+Task 1
+
+1. Find the pcap file in the folder.
+2. Find the information of every packet IP address, BSSID etc.
+
+
+
+
+Task 2
+
+1. Find the task_1.pcap file in the folder
+2. Open it using the wireshark.
+3. Using HTTP Filter find the POST packet. 
+4. Try to dig in the packet. 
+5. Find username and password. 
+6. You can use help of screenshots 1 and 2.
+
+
+Task 3.
+1. To cut the people from the internet . You have to use deauth packets which tells the modem to disconnect. 
+2. To follow use https://null-byte.wonderhowto.com/how-to/kick-people-off-your-internet-0171393/.

@@ -1,0 +1,9 @@
+Task 1
+1. Find everything you can find about your college. 
+2. You can also try to find everything about the least known websites. 
+
+// Before try to do it on big websites remember it is illegal to do so.
+
+
+Task 2
+1. Try finding bugs in websites for the first time.
